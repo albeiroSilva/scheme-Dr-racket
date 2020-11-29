@@ -1,0 +1,1 @@
+(define (areaT b h) (/(* b h)2))
